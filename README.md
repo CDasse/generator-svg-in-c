@@ -1,7 +1,5 @@
 # Générateur d’Images Vectorielles SVG en C
 
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=CDasse_generator-svg-in-c&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=CDasse_generator-svg-in-c)
-
 ## Description
 
 Ce projet fournit une suite de modules en **C** destinés à la **création**, **l’édition**, **la suppression** et **la sauvegarde** de formes géométriques (rectangles, lignes, ellipses, polygones, polylignes, chemins) au **format SVG**.
